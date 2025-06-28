@@ -75,16 +75,20 @@ That's it! The app will automatically:
 ## Screenshots
 
 ### Folder Mode - Grid View
-![Folder Mode Grid](screenshots/folder-grid.png)
+![Folder Mode Grid](https://i.postimg.cc/Gpq8p8fH/grid.png)
 *Responsive grid that adjusts to window size*
 
 ### Folder Mode - List View
-![Folder Mode List](screenshots/folder-list.png)
+![Folder Mode List](https://i.postimg.cc/KYZ3FrJ6/list.png)
 *Detailed list with file information*
 
 ### Single Image Mode
-![Single Image Mode](screenshots/single-image.png)
-*Inspect and edit individual metadata fields*
+![Single Image Mode](https://i.postimg.cc/LX5qg4dv/single.png)
+*Inspect individual metadata fields*
+
+### Single Image Mode
+![Single Image Mode](https://i.postimg.cc/ht8QH3b8/edit.png)
+*Edit individual metadata fields*
 
 ## Requirements
 

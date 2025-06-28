@@ -1,0 +1,15 @@
+just_de_pic/
+├── main.py
+├── requirements.txt
+├── gui/
+│   ├── __init__.py
+│   ├── main_window.py
+│   ├── folder_view.py
+│   └── single_image_view.py
+├── core/
+│   ├── __init__.py
+│   ├── image_processor.py
+│   └── metadata_handler.py
+└── utils/
+    ├── __init__.py
+    └── helpers.py

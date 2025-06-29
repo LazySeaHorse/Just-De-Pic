@@ -2,6 +2,9 @@
 
 A lightweight, offline image metadata tool that does one thing well - removes/edits metadata from your images without uploading them anywhere.
 
+> [!NOTE]
+> Coded to life with some help from Claude 4 Opus
+
 ## Features
 
 ### Privacy First

@@ -139,6 +139,7 @@ I got tired of:
 - Uploading personal photos to random websites just to check/remove metadata
 - Installing bloated software with "premium features" for basic tasks
 - Not having a simple, trustworthy tool for a simple job
+- If you want something more feature-rich, use [Phil Harvey's EXIF Tool](https://github.com/FrankBijnen/ExifToolGui)
 
 ## License
 
